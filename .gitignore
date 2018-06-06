@@ -1,8 +1,13 @@
 logs
 target
 /.idea
+/.metaserver
 /.idea_modules
 /.classpath
 /.project
 /.settings
 /RUNNING_PID
+tmist-web/node_modules
+tmist-web/dist
+public/assets/ember
+Would skip repository tmist-web/
